@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 console.log('TEST-1, test2, test-3');
 
 // test line
@@ -8,3 +9,6 @@ function index() {
 }
 
 index();
+=======
+console.log('TEST');
+>>>>>>> parent of eb234fc... changed index.js
