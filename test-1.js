@@ -5,7 +5,6 @@ function index() {
 }
 
 index();
-
 // test-1
 
 function test() {
