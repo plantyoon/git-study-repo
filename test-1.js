@@ -1,3 +1,11 @@
+console.log('TEST');
+
+function index() {
+  console.log(55);
+}
+
+index();
+
 // test-1
 
 function test() {
