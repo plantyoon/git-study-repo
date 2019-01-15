@@ -7,3 +7,7 @@ function test() {
 }
 
 test();
+
+function test2() {
+  console.log
+}
